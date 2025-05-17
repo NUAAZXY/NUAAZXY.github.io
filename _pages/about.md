@@ -38,29 +38,37 @@ My research focuses on:
 
 Only publications for which I am the first author are listed here. The full list can be found via my Google Scholar profile.
 
-``ACL`` **Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation.**
+### 1. ``ACL`` **Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Wei Cheng, Taolue Chen.
 
 *In The 63rd Annual Meeting of the Association for Computational Linguistics, To appear, 2025.* **CCF A**
 
-``TSE`` **Anchor Attention, Small Cache: Code Generation with Large Language Models.**
+---
+
+### 2. ``TSE`` **Anchor Attention, Small Cache: Code Generation with Large Language Models.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Harald C. Gall, Taolue Chen.
 
 *In Transactions on Software Engineering, To appear, 2025.* **CCF A**
 
-``JSS`` **Context-aware Code Generation with Synchronous Bidirectional Decoder.**
+---
+
+### 3. ``JSS`` **Context-aware Code Generation with Synchronous Bidirectional Decoder.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Tingting Han, Taolue Chen.
 
 *Journal of Systems and Software, 2024.*  **CCF B**
 
-``EMNLP`` **Syntax-aware Retrieval Augmented Code Generation.**
+---
+
+### 4. ``EMNLP`` **Syntax-aware Retrieval Augmented Code Generation.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Taolue Chen.
 
 *Conference on Empirical Methods in Natural Language Processing, Findings, 2023.* **CCF B**
+
+---
 
 # 📖 Educations
 - *2024.06 - now*, Nanjing University of Aeronautics and Astronautics(NUAA),  major in Software Engineering.
