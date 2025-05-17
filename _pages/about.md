@@ -21,7 +21,7 @@ redirect_from:
 
 I am pursuing my PhD degree at the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.
 
-I have published papers in prestigious conferences and journals including ACL, TSE, TOSEM, EMNLP, and JSS. My research work can be found on my [Google Scholar](https://scholar.google.com/citations?user=j2XgDxUAAAAJ).
+I have published over 10 papers at the AI/SE conferences and journals including ACL, TSE, TOSEM, EMNLP, and JSS. My research papers can be found on my [Google Scholar](https://scholar.google.com/citations?user=j2XgDxUAAAAJ).
 
 ## Research Interests
 
