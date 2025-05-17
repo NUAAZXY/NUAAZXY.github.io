@@ -41,6 +41,7 @@ My research focuses on:
 Only publications for which I am the first author are listed here. The full list can be found via my Google Scholar profile.
 
 ---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL</div><img src='images/2dcoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
@@ -51,6 +52,7 @@ Only publications for which I am the first author are listed here. The full list
 *In The 63rd Annual Meeting of the Association for Computational Linguistics, To appear, 2025.* **CCF A**
 
 ---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE</div><img src='images/workflow_anchorcoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
@@ -61,6 +63,7 @@ Only publications for which I am the first author are listed here. The full list
 *In Transactions on Software Engineering, To appear, 2025.* **CCF A**
 
 ---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSS</div><img src='images/framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
@@ -71,6 +74,7 @@ Only publications for which I am the first author are listed here. The full list
 *Journal of Systems and Software, 2024.*  **CCF B**
 
 ---
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='images/workflow_knn.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
   
