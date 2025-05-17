@@ -38,42 +38,29 @@ My research focuses on:
 
 Only publications for which I am the first author are listed here. The full list can be found via my Google Scholar profile.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation.]
+``ACL`` [Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation.]
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Wei Cheng, Taolue Chen.
 
-*In The 63rd Annual Meeting of the Association for Computational Linguistics, To appear, 2025.*
+*In The 63rd Annual Meeting of the Association for Computational Linguistics, To appear, 2025.* **CCF A**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TSE</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Anchor Attention, Small Cache: Code Generation with Large Language Models.]
+``TSE``[Anchor Attention, Small Cache: Code Generation with Large Language Models.]
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Harald C. Gall, Taolue Chen.
 
-*In Transactions on Software Engineering, To appear, 2025.*
+*In Transactions on Software Engineering, To appear, 2025.* **CCF A**
 
+``JSS``[Context-aware Code Generation with Synchronous Bidirectional Decoder.]
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Context-aware Code Generation with Synchronous Bidirectional Decoder.]
-
-**Xiangyu Zhang**, Yu Zhou, Guang Yang, Tingting Han, Taolue Chen.
+**Xiangyu Zhang**, Yu Zhou, Guang Yang, Tingting Han, Taolue Chen. **CCF B**
 
 *Journal of Systems and Software, 2024.*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Syntax-aware Retrieval Augmented Code Generation.]
+``EMNLP``[Syntax-aware Retrieval Augmented Code Generation.]
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Taolue Chen.
 
-*Conference on Empirical Methods in Natural Language Processing, findings, 2023.*
+*Conference on Empirical Methods in Natural Language Processing, Findings, 2023.* **CCF B**
 
 # 📖 Educations
 - *2024.06 - now*, Nanjing University of Aeronautics and Astronautics(NUAA),  major in Software Engineering.
