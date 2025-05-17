@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# 👀 About Me
+
 I am pursuing my PhD degree at the College of Computer Science and Technology of Nanjing University of Aeronautics and Astronautics.
 
 I have published papers in prestigious conferences and journals including ACL, TSE, TOSEM, EMNLP, and JSS. My research work can be found on my [Google Scholar](https://scholar.google.com/citations?user=j2XgDxUAAAAJ).
@@ -37,8 +39,9 @@ My research focuses on:
 # 📝 Publications 
 
 Only publications for which I am the first author are listed here. The full list can be found via my Google Scholar profile.
-
-### 1. ``ACL`` **Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation.**
+1. <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Beyond Sequences: Two-dimensional Representation and Dependency Encoding for Code Generation.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Wei Cheng, Taolue Chen.
 
@@ -46,7 +49,7 @@ Only publications for which I am the first author are listed here. The full list
 
 ---
 
-### 2. ``TSE`` **Anchor Attention, Small Cache: Code Generation with Large Language Models.**
+2. ``TSE`` **Anchor Attention, Small Cache: Code Generation with Large Language Models.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Harald C. Gall, Taolue Chen.
 
@@ -54,7 +57,7 @@ Only publications for which I am the first author are listed here. The full list
 
 ---
 
-### 3. ``JSS`` **Context-aware Code Generation with Synchronous Bidirectional Decoder.**
+3. ``JSS`` **Context-aware Code Generation with Synchronous Bidirectional Decoder.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Tingting Han, Taolue Chen.
 
@@ -62,7 +65,7 @@ Only publications for which I am the first author are listed here. The full list
 
 ---
 
-### 4. ``EMNLP`` **Syntax-aware Retrieval Augmented Code Generation.**
+4. ``EMNLP`` **Syntax-aware Retrieval Augmented Code Generation.**
 
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Taolue Chen.
 
