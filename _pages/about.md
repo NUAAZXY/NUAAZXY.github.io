@@ -83,7 +83,7 @@ Only publications for which I am the first author are listed here. The full list
 ---
 
 # 📖 Educations
-- *2024.06 - now*, Nanjing University of Aeronautics and Astronautics(NUAA),  major in Software Engineering.
-- *2021.09 - 2024.04*, Nanjing University of Aeronautics and Astronautics(NUAA),  major in Software Engineering.
+- *2024.06 - now*, Nanjing University of Aeronautics and Astronautics (NUAA),  major in Software Engineering.
+- *2021.09 - 2024.04*, Nanjing University of Aeronautics and Astronautics (NUAA),  major in Software Engineering.
 - *2017.09 - 2021.06*, Jiangsu University of Science and Technology（JUST),  major in Software Engineering.
 
