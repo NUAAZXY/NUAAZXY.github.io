@@ -50,6 +50,8 @@ Only publications for which I am the first author are listed here. The full list
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Wei Cheng, Taolue Chen.
 
 *In The 63rd Annual Meeting of the Association for Computational Linguistics, To appear, 2025.* **CCF A**
+</div>
+</div>
 
 ---
 
@@ -61,6 +63,8 @@ Only publications for which I am the first author are listed here. The full list
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Harald C. Gall, Taolue Chen.
 
 *In Transactions on Software Engineering, To appear, 2025.* **CCF A**
+</div>
+</div>
 
 ---
 
@@ -72,6 +76,8 @@ Only publications for which I am the first author are listed here. The full list
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Tingting Han, Taolue Chen.
 
 *Journal of Systems and Software, 2024.*  **CCF B**
+</div>
+</div>
 
 ---
 
@@ -83,6 +89,8 @@ Only publications for which I am the first author are listed here. The full list
 **Xiangyu Zhang**, Yu Zhou, Guang Yang, Taolue Chen.
 
 *Conference on Empirical Methods in Natural Language Processing, Findings, 2023.* **CCF B**
+</div>
+</div>
 
 ---
 
